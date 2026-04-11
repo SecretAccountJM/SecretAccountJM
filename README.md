@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://profile-eta-woad.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Website" />
+    <img src="https://img.shields.io/badge/MY_WEBSITE-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Website" />
   </a>
 </p>
 
