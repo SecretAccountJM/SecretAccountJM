@@ -2,7 +2,9 @@
 <h3 align="center">front and backend Developer</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel Status" />
+  <a href="https://profile-eta-woad.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Website" />
+  </a>
 </p>
 
 ---
